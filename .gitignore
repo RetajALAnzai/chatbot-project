@@ -3,7 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 .env
-
+chroma_db/
+pdf_store/
 # User-specific files
 *.rsuser
 *.suo
